@@ -40,6 +40,4 @@ sequelize.sync()
   });
 
 
-  module.exports = () => {
-    app(req, res);
-  }
+export default app
