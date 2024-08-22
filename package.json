@@ -20,6 +20,7 @@
     "iyzipay": "^2.0.61",
     "pg": "^8.12.0",
     "pg-hstore": "^2.3.4",
+    "pgb": "^0.0.1",
     "sequelize": "^6.37.3",
     "sequelize-cli": "^6.6.2"
   },
