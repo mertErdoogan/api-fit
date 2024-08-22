@@ -38,8 +38,3 @@ sequelize.sync()
   .catch(error => {
     console.log('Error connecting to the database', error);
   });
-
-
-  module.exports = () => {
-    app(req, res);
-  }
